@@ -1,0 +1,57 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?ba7793ef482ef8f1ac1c6309b71c6272") format("truetype"), url("./flaticon.woff?ba7793ef482ef8f1ac1c6309b71c6272") format("woff"), url("./flaticon.woff2?ba7793ef482ef8f1ac1c6309b71c6272") format("woff2"), url("./flaticon.eot?ba7793ef482ef8f1ac1c6309b71c6272#iefix") format("embedded-opentype"), url("./flaticon.svg?ba7793ef482ef8f1ac1c6309b71c6272#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-scholarship:before {
+  content: "";
+}
+
+.flaticon-agriculture:before {
+  content: "";
+}
+
+.flaticon-responsibility:before {
+  content: "";
+}
+
+.flaticon-user:before {
+  content: "";
+}
+
+.flaticon-talent:before {
+  content: "";
+}
+
+.flaticon-key:before {
+  content: "";
+}
+
+.flaticon-personal:before {
+  content: "";
+}
+
+.flaticon-loan:before {
+  content: "";
+}
+
+.flaticon-loan-1:before {
+  content: "";
+}
+
+.flaticon-loan-2:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
